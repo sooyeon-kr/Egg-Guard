@@ -1,0 +1,9 @@
+[submodule "pda4-team7-front"]
+	path = pda4-team7-front
+	url = https://github.com/PDA4-TEAM7/pda4-team7-front.git
+[submodule "pda4-team7-back"]
+	path = pda4-team7-back
+	url = https://github.com/PDA4-TEAM7/pda4-team7-back.git
+[submodule "Back_Testing"]
+	path = Back_Testing
+	url = https://github.com/PDA4-TEAM7/Back_Testing.git

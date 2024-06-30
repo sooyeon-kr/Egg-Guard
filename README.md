@@ -19,10 +19,10 @@
         <td><img src="https://avatars.githubusercontent.com/u/94967088?v=4" width="180"></td>
     </tr>
     <tr align=center>
-        <td><a href='https://github.com/subsub97'>박소연</a></td>
+        <td><a href='https://github.com/soyalattee'>박소연</a></td>
         <td><a href='https://github.com/sooyeon-kr'>오수연</a></td>
-        <td><a href='https://github.com/sooyeon-kr'>임찬솔</a></td>
-        <td><a href='https://github.com/sooyeon-kr'>장호익</a></td>
+        <td><a href='https://github.com/Elandland'>임찬솔</a></td>
+        <td><a href='https://github.com/JangHoIk1'>장호익</a></td>
     </tr>
 </table>
 
